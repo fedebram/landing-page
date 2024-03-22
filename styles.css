@@ -53,8 +53,8 @@ a {
 
 .contenitore-hero {
     display: flex;
-    align-items: baseline;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 100px;
 }
 
